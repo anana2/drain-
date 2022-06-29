@@ -1,0 +1,3 @@
+using cxx
+
+src/: {*/ -build/}

@@ -1,0 +1,3 @@
+using cxx
+
+lib{drain}: {hxx cxx}{**}

@@ -1,2 +1,2 @@
-# drain-
+# drain++
 c++ implementation of drain
